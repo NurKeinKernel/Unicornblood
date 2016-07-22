@@ -18,6 +18,7 @@
           sync-f="true"
           sync-j="8" />
 
+  <project name="AnyKernel2" path="Build-Script" remote="nobe" revision="script" />
   <project name="AnyKernel2" path="AnyKernel2-ANGLER" remote="nobe" revision="ANGLER" />
   <project name="AnyKernel2" path="AnyKernel2-BULLHEAD" remote="nobe" revision="BULLHEAD" />
   <project name="AnyKernel2" path="AnyKernel2-SHAMU" remote="nobe" revision="SHAMU" />
