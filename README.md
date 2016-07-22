@@ -1,4 +1,4 @@
-Manifest for Building Unicornblood 
+Manifest for Building
 =============================
 Unicornblood 
 =============================
