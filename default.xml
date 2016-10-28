@@ -26,7 +26,6 @@
   <project name="android_kernel_huawei_angler" path="android_kernel_huawei_angler" remote="DU" revision="n" />
   <project name="android_kernel_lge_bullhead" path="android_kernel_lge_bullhead" remote="DU" revision="n" />
   <project name="android_kernel_moto_shamu" path="android_kernel_moto_shamu" remote="DU" revision="n" />
-  <project name="android_kernel_lge_hammerhead" path="android_kernel_lge_hammerhead" remote="DU" revision="n" />
 
  <project path="prebuilt/aarch64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" remote="DU" revision="n" />
  <project path="prebuilt/arm-eabi-4.8" name="arm-eabi-4.8" remote="DU" revision="n" />
