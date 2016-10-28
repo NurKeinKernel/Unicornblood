@@ -5,6 +5,9 @@
  <remote  name="nobe"
           fetch="https://github.com/nobe1976/" />
 
+ <remote  name="nc"
+          fetch="https://github.com/nathanchance/" />
+
  <remote  name="DU"
           fetch="https://github.com/DirtyUnicorns/" />
 
@@ -19,10 +22,9 @@
           sync-j="8" />
 
   <project name="AnyKernel2" path="Build-Script" remote="nobe" revision="script" />
-  <project name="AnyKernel2" path="AnyKernel2-ANGLER" remote="nobe" revision="ANGLER" />
-  <project name="AnyKernel2" path="AnyKernel2-BULLHEAD" remote="nobe" revision="BULLHEAD" />
-  <project name="AnyKernel2" path="AnyKernel2-SHAMU" remote="nobe" revision="SHAMU" />
-  <project name="AnyKernel2" path="AnyKernel2-HAMMERHEAD" remote="nobe" revision="HAMMERHEAD" />
+  <project name="AnyKernel2" path="AnyKernel2-ANGLER" remote="nc" revision="angler-flash-release" />
+  <project name="AnyKernel2" path="AnyKernel2-BULLHEAD" remote="nc" revision="bullhead-flash-release" />
+  <project name="AnyKernel2" path="AnyKernel2-SHAMU" remote="nc" revision="shamu-flash-release" />
 
   <project name="android_kernel_huawei_angler" path="android_kernel_huawei_angler" remote="DU" revision="n" />
   <project name="android_kernel_lge_bullhead" path="android_kernel_lge_bullhead" remote="DU" revision="n" />
