@@ -6,7 +6,7 @@ Pull in the Sources
 ======================
 Create Folder for Repo
 -----------------------
-$ mkdir Unicornblood && cd Unicornblood
+$ mkdir Unicornblood_N && cd Unicornblood_N
 
 Sync in Source
 ---------------
