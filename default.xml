@@ -24,6 +24,7 @@
   <project name="AnyKernel2" path="AnyKernel2-SHAMU" remote="nobe" revision="SHAMU-N" />
   <project name="AnyKernel2" path="AnyKernel2-HAMMERHEAD" remote="nobe" revision="HAMMERHEAD-N" />
 
+  <project name="android_kernel_google_dragon" path="android_kernel_google_dragon" remote="DU" revision="n7x" />
   <project name="android_kernel_huawei_angler" path="android_kernel_huawei_angler" remote="DU" revision="n7x" />
   <project name="android_kernel_lge_bullhead" path="android_kernel_lge_bullhead" remote="DU" revision="n7x" />
   <project name="android_kernel_moto_shamu" path="android_kernel_moto_shamu" remote="DU" revision="n7x" />
