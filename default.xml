@@ -4,6 +4,9 @@
 
  <remote  name="nobe"
           fetch="https://github.com/NurKeinKernel/" />
+ 
+ <remote  name="NurKeinNeid"
+          fetch="https://github.com/NurKeinNeid/" />
 
  <remote  name="DU"
           fetch="https://github.com/DirtyUnicorns/" />
@@ -23,6 +26,7 @@
   <project name="AnyKernel2" path="AnyKernel2-BULLHEAD" remote="nobe" revision="BULLHEAD-N" />
 
   <project name="android_kernel_nextbit_msm8992" path="android_kernel_nextbit_msm8992" remote="DU" revision="n7x-caf" />
+  <project name="dharma_kernel_nextbit_msm8992" path="dharma_kernel_nextbit_msm8992" remote="NurKeinNeid" revision="orchid" />
   <project name="android_kernel_lge_bullhead" path="android_kernel_lge_bullhead" remote="DU" revision="n7x" />
 
  <project path="prebuilt/aarch64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" remote="DU" revision="n7x" />
